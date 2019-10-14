@@ -1,0 +1,20 @@
+{
+  "name": "bucket-besties-deploy",
+  "version": "1.0.0",
+  "description": "Bucket Besties",
+  "main": "orm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcastro0727/Bucket-Besties-Deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcastro0727/Bucket-Besties-Deploy/issues"
+  },
+  "homepage": "https://github.com/mcastro0727/Bucket-Besties-Deploy#readme"
+}
